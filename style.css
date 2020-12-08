@@ -1,0 +1,137 @@
+body {
+	text-align: center;
+	background-color: black; 
+	color: white;
+	height: 100%;
+}
+
+.block {
+	display: block;
+}
+
+.logo {
+	width: 500px;
+	height: 500px;
+	margin-bottom: 25px;
+	margin-top: 15px;
+}
+
+
+.border {
+    display: inline-block;
+    width: 500px;
+    height: 95px;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-top: 50px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.txt-railway {
+	margin-top: 5px;
+}
+
+.loota {
+	border: none !important;
+}
+
+.ul {
+	display: inline-block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-top: 50px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.laatikkoinen {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-top: 50px;
+	padding-left: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.lootanen {
+	background-color: white;
+	color: black;
+    display: flex;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-left: 5px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-top: 5px;
+}
+
+.liid {
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
+h3 {
+	margin-bottom: 50px;
+}
+
+.karuselli {
+	margin-top: 50px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  float: right;
+  text-align: right;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: DodgerBlue;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.some {
+	padding-left: 5px;
+}
+
+.hederi {
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.p-etusivu {
+	display: inline;
+}
+
+.luokka {
+	
+}
+
+.kuva1 {
+	text-align: center;
+}
+
+#carouselExampleCaptions {
+	text-align: center;
+}
