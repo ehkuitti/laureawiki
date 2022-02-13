@@ -1,4 +1,4 @@
-# LAUREAWIKI
+# [LAUREAWIKI](https://ehkuitti.github.io/laureawiki)
 
 ![Etusivu](https://user-images.githubusercontent.com/72074501/153751158-4f0d76f3-fefd-4ebe-a387-31a1e6d9baf0.png)
 
