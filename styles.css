@@ -75,6 +75,22 @@ body {
 	padding-bottom: 1%;
 	padding-top: 1%;
 	text-align: center;
+	align-items: left;
+}
+
+.p-about-us {
+	display: inline-block;
+    width: auto;
+    height: auto;
+    margin-left: 33.8%;
+	margin-right: 33.8%;
+	margin-bottom: 0%;
+	margin-top: 2%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: center;
 }
 
 .txt-railway {
@@ -97,34 +113,21 @@ body {
 	padding-top: 5px;
 }
 
-.laatikkoinen {
-    display: inline-block;
-    width: auto;
-    height: auto;
-    margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 30px;
-	margin-top: 50px;
-	padding-left: 5px;
-	padding-right: 20px;
-	padding-bottom: 5px;
-	padding-top: 5px;
+.box-about-us {
+    margin-top: 2.5%;
+	margin-bottom: 4%;
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 .lootanen {
 	background-color: white;
 	color: black;
-    display: flex;
-    width: 500px;
+    display: grid;
+    width: 29%;
     height: auto;
-    margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 0px;
-	margin-top: 0px;
-	padding-left: 5px;
-	padding-right: 20px;
-	padding-bottom: 0px;
-	padding-top: 5px;
+    margin: auto;
+	padding: 1.5% 1.5%;
 }
 
 .liid {
