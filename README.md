@@ -1,6 +1,8 @@
 # LAUREAWIKI
 
 ## Tietoa reposta
+![Etusivu](https://user-images.githubusercontent.com/72074501/153751158-4f0d76f3-fefd-4ebe-a387-31a1e6d9baf0.png)
+
 
 Tämä sivusto oli Laurea-ammattikorkeakouluni Verkkosivujen perusteet -kurssin projektityö. Kurssilla tehtiin erilaisia web-kielien koodausharjoituksia sekä lopputyö, joka oli oma, itse koodattu, verkkosivusto. Kurssi käsitteli lähinnä HTML:ää ja CSS:ää, mutta sivustolle sai myös halutessaan lisätä muilla web-kielillä kirjoitettua koodia. Niinpä itsekin päädyin lisäämään pienen pätkän JavaScriptiä sekä upottamaan ulkoista sisältöä (mm. Google Maps). 
 
