@@ -12,4 +12,4 @@ Sivusto koostuu yhteensä viidestä eri sivusta, joista jokainen käsittelee ots
 
 ## Tietoa toteutuksesta
 
-Sivusto on kirjoitettu HTML5:lla ja CSS3:lla; tämän lisäksi sivustolla on käytetty ulkoisina CSS-kirjastoina Bootstrappia sekä Font Awesomea ulkoasun toteutuksessa. Tekstieditorina käytin kurssin aikana Notepad++:aa Windows 10 työpöydällä. Kurssin jälkeen tehdyt muutokset (Tammikuu 2021->) on tehty Visual Studio Codella. Olen myös vaihtanut käyttöjärjestelmäkseni Linux Mint Cinnamonin. 
+Sivusto on kirjoitettu HTML5:lla ja CSS3:lla; tämän lisäksi sivustolla on käytetty ulkoisina CSS-kirjastoina Bootstrappia sekä Font Awesomea ulkoasun toteutuksessa. Tekstieditorina käytin kurssin aikana Notepad++:aa Windows 10 työpöydällä. Kurssin jälkeen tehdyt muutokset (Tammikuu 2021 ->) on tehty Visual Studio Codella. Olen myös vaihtanut käyttöjärjestelmäkseni Linux Mint Cinnamonin. 
