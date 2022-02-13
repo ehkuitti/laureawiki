@@ -110,23 +110,53 @@ body {
   align-items: left;
 }
 
+.new-width 
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .box-about-us {
 	margin-top: 2.5%;
 	margin-bottom: 4%;
 	padding-top: 0;
 	padding-bottom: 0;
 }
-
+  
+/* 
 .container-about-us {
-	display: grid;
-	background-color: white;
-	color: black;
-	display: block;
+	display: inline-block;
+	width: auto;
+	height: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-bottom: 1%;
 	margin-top: 1%;
-	margin-left: 33%;
-	margin-right: 33%;
-	padding: 1.5% 1.5%;
-}
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: center;
+	align-items: left; 
+	color: black;
+	background-color: white;
+	@media (min-width: 992px) {
+		 display: inline-block;
+	width: auto;
+	height: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-align: center;
+	align-items: left; 
+	
+	}
+} */
 
 
 .hederi {
@@ -184,15 +214,10 @@ h3 {
 }  
 
 .p-about-us {
-  display: grid;
-  margin-left: 33.8%;
-  margin-right: 33.8%;
-  margin-bottom: 0%;
-  /*margin-top: 2%;
-  padding-left: 1%;
-  padding-right: 1%;
-  padding-bottom: 1%;
-  padding-top: 1%; */
+	@media (min-width: 1200px) { 
+		margin-left: 33%;
+	}
+
 } 
 
 .some {
@@ -237,4 +262,8 @@ h3 {
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+}
+
+.hidden {
+	border-style: hidden !important;
 }
