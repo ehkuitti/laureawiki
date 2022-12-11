@@ -2,6 +2,8 @@
 
 ![Etusivu](https://user-images.githubusercontent.com/72074501/153751158-4f0d76f3-fefd-4ebe-a387-31a1e6d9baf0.png)
 
+_Please note: The contents of the final site are in Finnish as the site is intended for Finnish student wanting to learn about Laurea university. However, the main point of the project was to code a website, not to represent Laurea University of Applied Sciences._
+
 ## About the repo
 
 This website was the project work of my Laurea University of Applied Sciences' Basics of Websites course. The course consisted of various coding exercises in web languages and of the final project, which was a self-coded website. The course mainly dealt with HTML and CSS, but you could also add code written in other web languages to the site if you wanted. I ended up adding a small piece of JavaScript and embedding external content (e.g. Google Maps).
