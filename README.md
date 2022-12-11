@@ -2,14 +2,14 @@
 
 ![Etusivu](https://user-images.githubusercontent.com/72074501/153751158-4f0d76f3-fefd-4ebe-a387-31a1e6d9baf0.png)
 
-## Tietoa reposta
+## About the repo
 
-Tämä sivusto oli Laurea-ammattikorkeakouluni Verkkosivujen perusteet -kurssin projektityö. Kurssilla tehtiin erilaisia web-kielien koodausharjoituksia sekä lopputyö, joka oli oma, itse koodattu, verkkosivusto. Kurssi käsitteli lähinnä HTML:ää ja CSS:ää, mutta sivustolle sai myös halutessaan lisätä muilla web-kielillä kirjoitettua koodia. Niinpä itsekin päädyin lisäämään pienen pätkän JavaScriptiä sekä upottamaan ulkoista sisältöä (mm. Google Maps). 
+This website was the project work of my Laurea University of Applied Sciences' Basics of Websites course. The course consisted of various coding exercises in web languages and of the final project, which was a self-coded website. The course mainly dealt with HTML and CSS, but you could also add code written in other web languages to the site if you wanted. I ended up adding a small piece of JavaScript and embedding external content (e.g. Google Maps).
 
-## Tietoa rakenteesta
+## About the structure
 
-Sivusto koostuu yhteensä viidestä eri sivusta, joista jokainen käsittelee otsikon rajaamaa teemaa. Sivustolla on myös käytössä tumma teema. Tämä on tietoinen design-valinta, joka mahdollistaa kirkkaiden värien esiintuomisen näyttävästi. Tämän lisäksi sivustolla on käytetty erilaisia rakenteita, kuten divejä, linkkilistoja, ja upotuksia täydentämään sivujen sisältöä. 
+The website consists of a total of five different pages, each of which deals with the theme defined by the title. The website also uses a dark theme. This is a conscious design choice that allows bright colors to appear spectacularly. In addition to this, the site has used various structures, such as divs, link lists, and embeddings, to supplement the content of the pages.
 
-## Tietoa toteutuksesta
+## About the implementation
 
-Sivusto on kirjoitettu HTML5:lla ja CSS3:lla; tämän lisäksi sivustolla on käytetty ulkoisina CSS-kirjastoina Bootstrappia sekä Font Awesomea ulkoasun toteutuksessa. Tekstieditorina käytin kurssin aikana Notepad++:aa Windows 10 työpöydällä. Kurssin jälkeen tehdyt muutokset (Tammikuu 2021 ->) on tehty Visual Studio Codella. Olen myös vaihtanut käyttöjärjestelmäkseni Linux Mint Cinnamonin. 
+The site is written in HTML5 and CSS3; in addition to this, Bootstrap and Font Awesome were used as external CSS libraries for the layout implementation. During the course, I used Notepad++ as a text editor on a Windows 10. Changes made after the course (January 2021 ->) have been made with Visual Studio Code.
